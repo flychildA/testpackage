@@ -2,6 +2,7 @@
     "name": "flychild/test-package",
     "description": "Test package echo self",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Anatoly Litvinenko",
