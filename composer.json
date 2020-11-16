@@ -1,0 +1,16 @@
+{
+    "name": "flychild/test-package",
+    "description": "Test package echo self",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anatoly Litvinenko",
+            "email": "flychild.a@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TestPackage\\": "src/TestPackage"
+        }
+    }
+}
